@@ -12,6 +12,4 @@ installs needed:
 inquirer
 mysql2
 
-## Usage
-
 ## Links
