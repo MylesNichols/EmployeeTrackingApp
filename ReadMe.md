@@ -13,3 +13,4 @@ inquirer
 mysql2
 
 ## Links
+GitHub: https://github.com/MylesNichols/EmployeeTrackingApp
